@@ -1,5 +1,4 @@
-### [Home](https://mrwooltrest.github.io/)
-#### home page
+## [Home](https://mrwooltrest.github.io/)
 
 ## [Hello world!]()
 site is alive
