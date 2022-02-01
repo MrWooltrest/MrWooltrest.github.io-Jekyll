@@ -1,2 +1,2 @@
 # About
-coming soon!
+Coming soon!
