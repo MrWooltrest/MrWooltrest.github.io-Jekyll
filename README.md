@@ -1,2 +1,3 @@
 # Home
-still WIP
+# [Hello world!]()
+site is alive
