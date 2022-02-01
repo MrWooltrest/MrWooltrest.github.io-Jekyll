@@ -1,4 +1,4 @@
 ### [Home](https://mrwooltrest.github.io/)
 
 ## [Hello world!](blog/hello-world)
-site is alive
+I created simple blog with GitHub pages
