@@ -1,4 +1,4 @@
 ### [Home](https://mrwooltrest.github.io/)
 
-## [Hello world!](blog/helloworld.md)
+## [Hello world!](blog/hello-world)
 site is alive
