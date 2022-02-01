@@ -1,2 +1,2 @@
 ## Hello world!
-site is alive
+I created simple blog with GitHub pages.
