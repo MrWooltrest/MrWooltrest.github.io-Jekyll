@@ -24,18 +24,6 @@ Change these variables in `_config.yml`:
 | header_text_feature_image | assets/img/sample_feature_img_3.png | Background image for the header text                                    | Yes      |
 | footer_text               | Copyright 2014                      | HTML (shown at end of the site) with lighter text                       | Yes      |
 
-### Icons
-
-Add your username on selected websites in the icon section of the `_config.yml` file to display the site's icon from [Font Awesome](https://fortawesome.github.io/Font-Awesome/) in the header navigation. All icon variables should be your username enclosed in quotes (e.g. "username"), except for the following variables:
-
-
-| Variable       | Example                                         | Description                                            | Optional |
-| -------------- | ----------------------------------------------- | ------------------------------------------------------ | -------- |
-| rss            | true                                            | Takes boolean value (true/false) to show RSS feed icon | Yes      |
-| email_address  | type@example.com                                | Email address                                          | Yes      |
-| linkedin       | https://www.linkedin.com/in/FirstLast           | Full URL to profile on LinkedIn                        | Yes      |
-| stack_exchange | https://stackoverflow.com/users/0000/first-last | Full URL to profile on Stack Exchange                  | Yes      |
-
 ### Scripts
 
 Change these variables in `_config.yml`:
