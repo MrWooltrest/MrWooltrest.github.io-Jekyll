@@ -9,14 +9,14 @@ theme_settings:
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "MrWooltrest's little blog" # used by search engines
 
   # Header and footer text
   header_text: >
      <p>My small Work-in-Progress blog</p>
   header_text_feature_image:
   footer_text: >
-   Website source code available on <a href="https://github.com/MrWooltrest/MrWooltrest.github.io">GitHub</a>. This website uses <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   Website source code available on <a href="https://github.com/MrWooltrest/MrWooltrest.github.io">GitHub</a>. Based on <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
