@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hello World!"
+feature-title: This is the first article on this blog
 ---
 
 # Hello world!
