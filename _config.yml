@@ -16,7 +16,7 @@ theme_settings:
      <p>My small Work-in-Progress blog</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   Website source code available on <a href="https://github.com/MrWooltrest/MrWooltrest.github.io">GitHub</a> and uses <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
@@ -26,8 +26,8 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  gitlab:
-  github: "MrWooltrest/MrWooltrest.github.io"
+  gitlab: "MrWooltrest"
+  github: "MrWooltrest"
   gitter:
   google_plus:
   instagram:
@@ -38,7 +38,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: "MrWooltrest"
   wordpress:
   youtube:
 
