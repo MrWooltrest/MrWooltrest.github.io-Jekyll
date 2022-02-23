@@ -1,43 +1,5 @@
 # My little blog
 
-## Customizing Type Theme
-
-Open `_config.yml` in a text editor to change most of the blog's settings.
-
-If a variable in this document is marked as "optional", disable the feature by removing all text from the variable. For example, to prevent the avatar from rendering in the header, the avatar line should read:
-
-```yml
-theme:
-  title: Type Theme
-  avatar:
-  gravatar:
-```
-
-Notice the avatar variable is left intentionally blank.
-
-Below is a summary of the configuration options in Type Theme.
-
-### Site configuration
-The most common configurations, included here for guidance, are:
-
-Jekyll website *without* a subpath (such as a GitHub Pages website for a given username):
-
-```yml
-# SITE CONFIGURATION
-baseurl: ""
-url: "https://username.github.io"
-```
-
-Jekyll website *with* subpath (like the Type Theme demo page):
-
-```yml
-# SITE CONFIGURATION
-baseurl: "/sub-directory"
-url: "https://username.github.io/"
-```
-
-Please configure this in `_config.yml` before using the theme.
-
 ### Meta
 
 Meta variables hold basic information about your Jekyll site which will be used throughout the site and as meta properties for search engines, browsers, and the site's RSS feed.
