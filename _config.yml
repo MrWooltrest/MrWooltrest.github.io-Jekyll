@@ -16,7 +16,7 @@ theme_settings:
      <p>My little blog</p>
   header_text_feature_image:
   footer_text: >
-   Website source code available on <a href="https://github.com/MrWooltrest/MrWooltrest.github.io">GitHub</a>. Based on <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   Website source code available on <a href="https://github.com/MrWooltrest/MrWooltrest.github.io">GitHub</a>
 
   # Icons
   rss: false
