@@ -9,11 +9,11 @@ theme_settings:
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "MrWooltrest's little blog" # used by search engines
+  description: "MrWooltrest.github.io" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>My little blog</p>
+     <p>My small website</p>
   header_text_feature_image:
   footer_text: >
    Website source code available on <a href="https://github.com/MrWooltrest/MrWooltrest.github.io">GitHub</a>
