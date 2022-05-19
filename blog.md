@@ -1,1 +1,5 @@
-# Blog
+---
+layout: home
+---
+
+Small blog
