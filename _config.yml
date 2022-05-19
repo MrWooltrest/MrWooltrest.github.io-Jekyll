@@ -13,8 +13,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <a>My small website</a>
-     <p>My small website</p>
+     <h1>My small website</h1>
   header_text_feature_image:
   footer_text: >
    Website source code available on <a href="https://github.com/MrWooltrest/MrWooltrest.github.io">GitHub</a>
